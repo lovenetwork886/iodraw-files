@@ -5,10 +5,10 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="tN3OeuL4zxYV8ItVD69V-1" value="服务器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="69" width="109" height="48" as="geometry" />
+          <mxGeometry x="30" y="170" width="109" height="48" as="geometry" />
         </mxCell>
         <mxCell id="tN3OeuL4zxYV8ItVD69V-2" value="操作系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="179" y="69" width="125" height="48" as="geometry" />
+          <mxGeometry x="189" y="170" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="tN3OeuL4zxYV8ItVD69V-3" value="anythingLLM" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="390" y="30" width="198" height="48" as="geometry" />
@@ -28,11 +28,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tN3OeuL4zxYV8ItVD69V-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.84;exitY=1.01;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="tN3OeuL4zxYV8ItVD69V-2" target="tN3OeuL4zxYV8ItVD69V-4">
+        <mxCell id="tN3OeuL4zxYV8ItVD69V-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.84;exitY=1.01;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="329" y="143" />
+              <mxPoint x="279" y="143" />
+              <mxPoint x="230" y="240" />
             </Array>
+            <mxPoint x="233.16666666666674" y="117" as="sourcePoint" />
+            <mxPoint x="320" y="364.48" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
