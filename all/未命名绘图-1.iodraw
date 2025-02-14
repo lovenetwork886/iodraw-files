@@ -10,11 +10,11 @@
         <mxCell id="tN3OeuL4zxYV8ItVD69V-2" value="操作系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="179" y="69" width="125" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="tN3OeuL4zxYV8ItVD69V-3" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="tN3OeuL4zxYV8ItVD69V-3" value="anythingLLM" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="390" y="30" width="198" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="tN3OeuL4zxYV8ItVD69V-4" value="anythingllm" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="381" y="118" width="144" height="48" as="geometry" />
+        <mxCell id="tN3OeuL4zxYV8ItVD69V-4" value="deepseekR1bge-m3" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="340" width="144" height="48" as="geometry" />
         </mxCell>
         <mxCell id="tN3OeuL4zxYV8ItVD69V-5" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="tN3OeuL4zxYV8ItVD69V-1" target="tN3OeuL4zxYV8ItVD69V-2">
           <mxGeometry relative="1" as="geometry">
