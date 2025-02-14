@@ -8,7 +8,7 @@
           <mxGeometry x="180" y="170" width="130" height="48" as="geometry" />
         </mxCell>
         <mxCell id="tN3OeuL4zxYV8ItVD69V-3" value="anythingLLM" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="390" y="30" width="198" height="48" as="geometry" />
+          <mxGeometry x="390" y="90" width="198" height="48" as="geometry" />
         </mxCell>
         <mxCell id="tN3OeuL4zxYV8ItVD69V-4" value="deepseekR1" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="390" y="430" width="220" height="48" as="geometry" />
@@ -20,7 +20,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tN3OeuL4zxYV8ItVD69V-9" value="BGE-M3" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="390" y="190" width="198" height="48" as="geometry" />
+          <mxGeometry x="401" y="320" width="198" height="48" as="geometry" />
         </mxCell>
         <mxCell id="tN3OeuL4zxYV8ItVD69V-13" value="操作系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="390" y="540" width="220" height="48" as="geometry" />
