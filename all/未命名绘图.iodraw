@@ -8,16 +8,16 @@
           <mxGeometry x="26.5" width="176" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KquSPTE7RLe6HysXnrkW-2" value="RPA/API抓取" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="55" y="98" width="119" height="48" as="geometry" />
+          <mxGeometry x="-83" y="1.6900125828233476e-14" width="119" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KquSPTE7RLe6HysXnrkW-3" value="anythingllm本地知识库(BGE-M3)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="11.5" y="196" width="206" height="48" as="geometry" />
+          <mxGeometry x="-264.5" y="3.380025165646695e-14" width="206" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KquSPTE7RLe6HysXnrkW-4" value="规则审核(DeepSeek-R1)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry y="294" width="229" height="48" as="geometry" />
+          <mxGeometry x="-414" y="5.070037748470042e-14" width="229" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KquSPTE7RLe6HysXnrkW-5" value="预警推送" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="52" y="392" width="125" height="48" as="geometry" />
+          <mxGeometry x="-500" y="6.76005033129339e-14" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KquSPTE7RLe6HysXnrkW-6" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;noEdgeStyle=1;orthogonal=1;" edge="1" parent="1" source="KquSPTE7RLe6HysXnrkW-1" target="KquSPTE7RLe6HysXnrkW-2">
           <mxGeometry relative="1" as="geometry" />
