@@ -8,48 +8,28 @@
           <mxGeometry width="176" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KquSPTE7RLe6HysXnrkW-2" value="RPA/API抓取" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" vertex="1" parent="1">
-          <mxGeometry x="276" width="119" height="48" as="geometry" />
+          <mxGeometry x="226" width="119" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KquSPTE7RLe6HysXnrkW-3" value="anythingllm本地知识库(BGE-M3)" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" vertex="1" parent="1">
-          <mxGeometry x="495" width="206" height="48" as="geometry" />
+          <mxGeometry x="395" width="206" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KquSPTE7RLe6HysXnrkW-4" value="规则审核(DeepSeek-R1)" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" vertex="1" parent="1">
-          <mxGeometry x="801" width="229" height="48" as="geometry" />
+          <mxGeometry x="651" width="229" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KquSPTE7RLe6HysXnrkW-5" value="预警推送" style="whiteSpace=wrap;strokeWidth=2;labelBackgroundColor=none;fillColor=#09555B;strokeColor=#BAC8D3;fontColor=#EEEEEE;" vertex="1" parent="1">
-          <mxGeometry x="1130" width="125" height="48" as="geometry" />
+          <mxGeometry x="930" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KquSPTE7RLe6HysXnrkW-6" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" edge="1" parent="1" source="KquSPTE7RLe6HysXnrkW-1" target="KquSPTE7RLe6HysXnrkW-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="188" y="24" />
-              <mxPoint x="264" y="24" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KquSPTE7RLe6HysXnrkW-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" edge="1" parent="1" source="KquSPTE7RLe6HysXnrkW-2" target="KquSPTE7RLe6HysXnrkW-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="407" y="24" />
-              <mxPoint x="483" y="24" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KquSPTE7RLe6HysXnrkW-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" edge="1" parent="1" source="KquSPTE7RLe6HysXnrkW-3" target="KquSPTE7RLe6HysXnrkW-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="713" y="24" />
-              <mxPoint x="789" y="24" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KquSPTE7RLe6HysXnrkW-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;noEdgeStyle=1;orthogonal=1;labelBackgroundColor=none;strokeColor=#0B4D6A;fontColor=default;" edge="1" parent="1" source="KquSPTE7RLe6HysXnrkW-4" target="KquSPTE7RLe6HysXnrkW-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1042" y="24" />
-              <mxPoint x="1118" y="24" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
