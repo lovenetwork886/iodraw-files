@@ -1,0 +1,41 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="24.7.17">
+  <diagram id="bYOTrQC3rwuj3vnOZkJ9" name="第 1 页">
+    <mxGraphModel dx="1042" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tN3OeuL4zxYV8ItVD69V-1" value="服务器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="69" width="109" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tN3OeuL4zxYV8ItVD69V-2" value="操作系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="179" y="69" width="125" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tN3OeuL4zxYV8ItVD69V-3" value="deepseekR1bge-m3" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="390" y="30" width="198" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tN3OeuL4zxYV8ItVD69V-4" value="anythingllm" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="381" y="118" width="144" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="tN3OeuL4zxYV8ItVD69V-5" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="tN3OeuL4zxYV8ItVD69V-1" target="tN3OeuL4zxYV8ItVD69V-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tN3OeuL4zxYV8ItVD69V-6" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.84;exitY=0;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="tN3OeuL4zxYV8ItVD69V-2" target="tN3OeuL4zxYV8ItVD69V-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="329" y="44" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tN3OeuL4zxYV8ItVD69V-7" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.84;exitY=1.01;entryX=0;entryY=0.51;rounded=0;" edge="1" parent="1" source="tN3OeuL4zxYV8ItVD69V-2" target="tN3OeuL4zxYV8ItVD69V-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="329" y="143" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
