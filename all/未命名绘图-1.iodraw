@@ -43,10 +43,10 @@
           <mxGeometry x="390" y="190" width="198" height="48" as="geometry" />
         </mxCell>
         <mxCell id="tN3OeuL4zxYV8ItVD69V-13" value="操作系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="390" y="540" width="170" height="48" as="geometry" />
+          <mxGeometry x="390" y="540" width="220" height="48" as="geometry" />
         </mxCell>
         <mxCell id="tN3OeuL4zxYV8ItVD69V-14" value="服务器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="430" y="630" width="130" height="48" as="geometry" />
+          <mxGeometry x="390" y="630" width="220" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
