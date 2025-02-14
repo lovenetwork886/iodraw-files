@@ -44,8 +44,8 @@
         <mxCell id="tN3OeuL4zxYV8ItVD69V-14" value="服务器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="390" y="630" width="220" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="tN3OeuL4zxYV8ItVD69V-21" value="anythingLLM" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="580" y="100" width="198" height="48" as="geometry" />
+        <mxCell id="tN3OeuL4zxYV8ItVD69V-21" value="cherrystudio" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="500" y="120" width="198" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
